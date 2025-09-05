@@ -95,9 +95,6 @@
         <mxCell id="u9baPHzRedg1W3_j4SZ9-81" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 255, 255)); font-size: 13px;&quot;&gt;Exclusión política&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="1620" y="1512" width="113" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="u9baPHzRedg1W3_j4SZ9-82" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 255, 255)); font-size: 13px;&quot;&gt;FARC (Fuerzas Armadas Revolucionarias de Colombia)&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=light-dark(#B85450,#66FFFF);gradientColor=#ea6b66;" parent="1" vertex="1">
-          <mxGeometry x="1572" y="1017" width="168" height="87" as="geometry" />
-        </mxCell>
         <mxCell id="u9baPHzRedg1W3_j4SZ9-83" value="&lt;font style=&quot;color: light-dark(rgb(130, 179, 102), rgb(102, 255, 255));&quot;&gt;&lt;strong style=&quot;&quot; data-end=&quot;489&quot; data-start=&quot;463&quot;&gt;Normas internacionales&lt;/strong&gt;: ISO 14001 (ambiental), ISO 45001 (SST)&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=light-dark(#B85450,#33FFFF);gradientColor=#ea6b66;" parent="1" vertex="1">
           <mxGeometry x="1725" y="691" width="165" height="89" as="geometry" />
         </mxCell>
@@ -287,16 +284,6 @@
             <Array as="points">
               <mxPoint x="1815" y="837" />
               <mxPoint x="1765" y="787" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u9baPHzRedg1W3_j4SZ9-114" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;exitX=0.633;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="u9baPHzRedg1W3_j4SZ9-68" target="u9baPHzRedg1W3_j4SZ9-82" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1707" y="902" as="sourcePoint" />
-            <mxPoint x="1738" y="831" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1731" y="991" />
-              <mxPoint x="1676" y="957" />
             </Array>
           </mxGeometry>
         </mxCell>
